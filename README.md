@@ -172,6 +172,6 @@ com.saafhisaab.engine
 
 ## Author
 
-**[Fawwaz Khilji]** — Java Backend Developer (5 Years)  
-📧 [fawwazkhiljiofficial@gmail.com
-] | 💼 [https://www.linkedin.com/in/fawwazkhilji/]
+**Fawwaz Khilji** — Java Backend Developer (5 Years)  
+📧 Email[fawwazkhiljiofficial@gmail.com]
+💼 LinkedIn[https://www.linkedin.com/in/fawwazkhilji/]
